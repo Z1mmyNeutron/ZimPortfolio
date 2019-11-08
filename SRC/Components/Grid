@@ -1,0 +1,12 @@
+ /*<Grid padding={20} container spacing={24}>
+                    <Grid  item xs={6} spacing={8} style={{backgroundColor:"lime"}}>
+                    </Grid> 
+                    <Grid item xs={5} style={{backgroundColor:"purple"}}>
+                        <p style={{textAlign:"center"}}>
+                            <b>Obsession/Personal Art Statement</b>
+                        </p>
+                    </Grid>
+                    <Grid item xs={1} spacing={8} style={{backgroundColor:"pink"}}>
+                    </Grid>
+                </Grid>
+                */
